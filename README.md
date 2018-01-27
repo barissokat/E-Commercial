@@ -34,3 +34,15 @@ Ecommercial Restful project
 - Customer Group Management
 - Discount & Special Day Messages
 - Customer Birth Day Discount
+
+# Code - Design Standarts
+- All project should developed with SOLID princible
+- All project structure design should be based on MVC 
+- all functions should be in Camel Case standart
+- variables should be Sanke Case
+- Project should develop with issues
+
+# How can I contribute
+- Contact with project admin
+- Get additional info
+- Be friendly
